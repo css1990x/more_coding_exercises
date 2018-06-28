@@ -1,0 +1,22 @@
+{
+  "name": "more_coding_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pyInstall": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css1990x/more_coding_exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css1990x/more_coding_exercises/issues"
+  },
+  "homepage": "https://github.com/css1990x/more_coding_exercises#readme"
+}
